@@ -1,0 +1,27 @@
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\bin\Debug\Demo2Tejedoras.exe.config
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\Demo2Tejedoras.csprojResolveAssemblyReference.cache
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\MainWindow.baml
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\UC\DemoMenu.baml
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\UC\DemoSocias.baml
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\MainWindow.g.cs
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\UC\DemoMenu.g.cs
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\UC\DemoSocias.g.cs
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\App.g.cs
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\Demo2Tejedoras_MarkupCompile.cache
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\Demo2Tejedoras.g.resources
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\Demo2Tejedoras.Properties.Resources.resources
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\Demo2Tejedoras.csproj.GenerateResource.Cache
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\bin\Debug\Demo2Tejedoras.exe
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\bin\Debug\Demo2Tejedoras.pdb
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\Demo2Tejedoras.exe
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\Demo2Tejedoras.pdb
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\UC\DemoActas.baml
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\UC\DemoFilo.baml
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\UC\DemoLegal.baml
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\UC\DemoActas.g.cs
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\UC\DemoFilo.g.cs
+c:\users\bram skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\UC\DemoLegal.g.cs
+C:\Users\Bram Skell\documents\visual studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\Demo2Tejedoras_Content.g.cs
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\bin\Debug\Demo2Tejedoras.exe.config
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\Demo2Tejedoras.exe
+C:\Users\Oscar\Documents\Visual Studio 2013\Projects\Demo2Tejedoras\Demo2Tejedoras\obj\Debug\Demo2Tejedoras.pdb
